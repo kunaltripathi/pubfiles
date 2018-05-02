@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>A-Train map</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>A-Train layer</name>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Trinity Mills</name>
+				<Point>
+					<coordinates>32.9740801,-96.9158944,14.26</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Hebron</name>
+				<Point>
+					<coordinates>32.9961989,-96.9458464,14.26</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Old Town</name>
+				<Point>
+					<coordinates>33.0437236,-96.9937122,14.26</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Highland Village/Lewisville Lake</name>
+				<Point>
+					<coordinates>33.077534,-97.0244524,14.26</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Medpark</name>
+				<Point>
+					<coordinates>33.1782355,-97.0916538,14.26</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>Downtown Denton</name>
+				<Point>
+					<coordinates>33.211134,-97.1268019,16.22</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-000000-4</styleUrl>
+				<name>Trip to DDTC</name>
+				<description><![CDATA[Trip from Trinity Mills station to Denton Dontown.]]></description>
+				<LineString>
+					<tessellate>0</tessellate>
+					<coordinates>32.9740801,-96.9158944,14.26 32.9961989,-96.9458464,14.26 33.0437236,-96.9937122,14.26 33.077534,-97.0244524,14.26 33.1782355,-97.0916538,14.26 33.211134,-97.1268019,16.22</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='line-000000-4'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='icon-503-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
