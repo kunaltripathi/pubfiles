@@ -12,50 +12,6 @@
 					<coordinates>32.980814,-96.925142,0.0</coordinates>
 				</Point>
 			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-503-FF8277</styleUrl>
-				<name>Hebron</name>
-				<Point>
-					<coordinates>33.010144,-96.958475,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-503-FF8277</styleUrl>
-				<name>Old Town</name>
-				<Point>
-					<coordinates>33.047347,-96.986386,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-503-FF8277</styleUrl>
-				<name>Highland Village/Lewisville Lake</name>
-				<Point>
-					<coordinates>33.083469,-97.026008,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-503-FF8277</styleUrl>
-				<name>Medpark</name>
-				<Point>
-					<coordinates>33.182353,-97.090522,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-503-FF8277</styleUrl>
-				<name>Downtown Denton</name>
-				<Point>
-					<coordinates>33.213444,-97.126117,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#line-000000-4</styleUrl>
-				<name>Trip to DDTC</name>
-				<description><![CDATA[Trip from Trinity Mills station to Denton Dontown.]]></description>
-				<LineString>
-					<tessellate>0</tessellate>
-					<coordinates>32.980814,-96.925142,0.0 33.010144,-96.958475,0.0 33.047347,-96.986386,0.0 33.083469,-97.026008,0.0 33.182353,-97.090522,0.0 33.213444,-97.126117,0.0</coordinates>
-				</LineString>
-			</Placemark>
 		</Folder>
 		<Style id='line-000000-4'>
 			<LineStyle>
